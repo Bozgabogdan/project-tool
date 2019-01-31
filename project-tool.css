@@ -1,0 +1,27 @@
+h3 {
+	display: inline;
+	border: 3px solid black;
+	padding: 5px;
+}
+
+.project {
+	margin-top: 25px;
+}
+
+#sprints-container {
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+.sprint-container {
+	border: 2px solid black;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.sprint-container span {
+	padding: 2px;
+	border: 1px solid #333;
+	border-radius: 25px;
+	margin-right: 5px;
+}
